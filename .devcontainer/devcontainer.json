@@ -21,7 +21,9 @@
 		"dbaeumer.vscode-eslint",
         "csstools.postcss",
         "mhutchie.git-graph",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "svelte.svelte-vscode",
+        "ardenivanov.svelte-intellisense"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
